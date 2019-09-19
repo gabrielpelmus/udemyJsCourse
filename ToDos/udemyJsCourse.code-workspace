@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "C:\\Users\\Gabriel\\source\\WeatherApp"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "WeatherApp"
+	}
+}
