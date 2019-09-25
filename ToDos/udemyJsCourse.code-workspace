@@ -5,9 +5,15 @@
 		},
 		{
 			"path": "C:\\Users\\Gabriel\\source\\WeatherApp"
+		},
+		{
+			"path": "C:\\Users\\Gabriel\\source\\FirebaseApp"
+		},
+		{
+			"path": "C:\\Users\\Gabriel\\source\\RealTimeChatApp"
 		}
 	],
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "WeatherApp"
+		"liveServer.settings.multiRootWorkspaceName": "RealTimeChatApp"
 	}
 }
