@@ -1093,11 +1093,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/gabriel/Udemy/asp/DatingApp/DatinApp.API/DatinApp.API.csproj",
+      "projectUniqueName": "/home/gabriel/Udemy/asp/DatingApp/DatingApp.API/DatinApp.API.csproj",
       "projectName": "DatinApp.API",
-      "projectPath": "/home/gabriel/Udemy/asp/DatingApp/DatinApp.API/DatinApp.API.csproj",
+      "projectPath": "/home/gabriel/Udemy/asp/DatingApp/DatingApp.API/DatinApp.API.csproj",
       "packagesPath": "/home/gabriel/.nuget/packages/",
-      "outputPath": "/home/gabriel/Udemy/asp/DatingApp/DatinApp.API/obj/",
+      "outputPath": "/home/gabriel/Udemy/asp/DatingApp/DatingApp.API/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/gabriel/.nuget/NuGet/NuGet.Config"
