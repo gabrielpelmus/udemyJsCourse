@@ -22,6 +22,7 @@ namespace DatinApp.API.Controllers
         }
 
         // HttpGetAttribute api/values
+        [AllowAnonymous]
         [HttpGet]
         public async Task<IActionResult> GetValues()
         {
