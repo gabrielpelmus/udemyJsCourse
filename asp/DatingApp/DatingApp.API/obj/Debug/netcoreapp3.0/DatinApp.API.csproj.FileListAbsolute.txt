@@ -92,3 +92,9 @@
 /home/gabriel/Udemy/asp/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
 /home/gabriel/Udemy/asp/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.0/Microsoft.IdentityModel.Protocols.dll
 /home/gabriel/Udemy/asp/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/gabriel/Udemy/asp/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.0/Data/UserSeedData.json
+/home/gabriel/Udemy/asp/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.JsonPatch.dll
+/home/gabriel/Udemy/asp/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/home/gabriel/Udemy/asp/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.0/Newtonsoft.Json.Bson.dll
+/home/gabriel/Udemy/asp/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.0/AutoMapper.dll
+/home/gabriel/Udemy/asp/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
